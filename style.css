@@ -52,6 +52,9 @@ body {
  .button-area {
    padding-top: 18px;
  }
+ .fa-solid {
+  margin: 2px;
+ }
  button {
    height: 36px;
    border: none;
@@ -67,6 +70,12 @@ body {
    background-color: #f8f9fa;
    border: 1px solid #dadce0;
    color: #202124;
+ }
+ .offered-in {
+  margin: 20px;
+ }
+ a {
+  margin: 10px;
  }
  
  /* footer */
